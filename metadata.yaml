@@ -1,0 +1,33 @@
+_repo: A-Treatise-of-Cleanness-in-Meats-and-Drinks-of-the-Preparation-of-Food-the-Excellency-of-Good__52657
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tryon, Thomas
+    aliases:
+    - Phylotheus Physiologus
+    - Physiologus, Philotheus
+    birthdate: 1634
+    deathdate: 1703
+    gutenberg_agent_id: '46984'
+    url: http://www.gutenberg.org/2009/agents/46984
+description: ''
+gutenberg_issued: '2016-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52657'
+  lccn: '44030367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene -- Early works to 1800'
+- !lcc 'RA'
+- !lcsh 'Teeth -- Care and hygiene'
+- GITenberg
+title: "A Treatise of Cleanness in Meats and Drinks, of the Preparation of Food,\r\
+  \nthe Excellency of Good Airs, and the Benefits of Clean Sweet Beds. Also of the\
+  \ Generation of Bugs, and Their Cure. To Which Is Added, a Short Discourse of the\
+  \ Pain in the Teeth, Shewing What Cause It Does Chiefly Proceed, and Also How to\
+  \ Prevent It."
+url: http://www.gutenberg.org/ebooks/52657
