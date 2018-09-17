@@ -1,5 +1,8 @@
 _repo: A-Treatise-of-Cleanness-in-Meats-and-Drinks-of-the-Preparation-of-Food-the-Excellency-of-Good__52657
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52657-h/images/cover.jpg
 creator:
   author:
     agent_name: Tryon, Thomas
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '46984'
     url: http://www.gutenberg.org/2009/agents/46984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52657#A-Treatise-of-Cleanness-in-Meats-and-Drinks-of-the-Preparation-of-Food-the-Excellency-of-Good_
 gutenberg_issued: '2016-07-27'
 gutenberg_type: Text
 identifiers:
